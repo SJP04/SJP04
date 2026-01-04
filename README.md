@@ -84,10 +84,14 @@ A wearable device for underwater safety.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SJP04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="SJP04 Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJP04&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  
+  [![SJP04's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SJP04&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJP04&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---

@@ -11,11 +11,11 @@
 I am an ambitious **Computer Science Engineering student** at **Karunya Institute of Technology and Sciences**, specializing in **Artificial Intelligence and Machine Learning**. I am committed to continuous learning and innovation in cutting-edge tech domains.
 
 - 💼 **Experience:**
-  - [cite_start]**AI/ML Intern @ White And Box:** Developed LLMs for employee data management using Hugging Face & PyTorch[cite: 13, 16].
-  - [cite_start]**Web Dev Intern @ Next24tech:** Built e-learning & e-commerce platforms, improving workflow efficiency by 25%[cite: 8, 10].
+  - **AI/ML Intern @ White And Box:** Developed LLMs for employee data management using Hugging Face & PyTorch[cite: 13, 16].
+  - **Web Dev Intern @ Next24tech:** Built e-learning & e-commerce platforms, improving workflow efficiency by 25%[cite: 8, 10].
 - 🔭 **Current Focus:** Integrating AI/ML technologies into Full Stack Web Development (MERN).
-- [cite_start]🎓 **Education:** B.Tech CSE (AI & ML) with a CGPA of 7.46[cite: 27, 30].
-- [cite_start]⚡ **Certifications:** Google Foundations of Cybersecurity, UiPath Automation[cite: 36, 37].
+- 🎓 **Education:** B.Tech CSE (AI & ML) with a CGPA of 7.46.
+- ⚡ **Certifications:** Google Foundations of Cybersecurity, UiPath Automation.
 
 ---
 
@@ -81,8 +81,6 @@ A wearable device for underwater safety.
 - [cite_start]**Impact:** Detects abnormalities and triggers audible alerts for safety[cite: 20, 21].
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
